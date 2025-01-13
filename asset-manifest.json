@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/mary-vday-gift/static/css/main.5e48eb34.css",
+    "main.js": "/mary-vday-gift/static/js/main.ac9e5a56.js",
+    "index.html": "/mary-vday-gift/index.html",
+    "main.5e48eb34.css.map": "/mary-vday-gift/static/css/main.5e48eb34.css.map",
+    "main.ac9e5a56.js.map": "/mary-vday-gift/static/js/main.ac9e5a56.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5e48eb34.css",
+    "static/js/main.ac9e5a56.js"
+  ]
+}
