@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/mary-vday-gift/static/css/main.a0766023.css",
-    "main.js": "/mary-vday-gift/static/js/main.032e84ed.js",
+    "main.js": "/mary-vday-gift/static/js/main.bae2059a.js",
     "index.html": "/mary-vday-gift/index.html",
     "main.a0766023.css.map": "/mary-vday-gift/static/css/main.a0766023.css.map",
-    "main.032e84ed.js.map": "/mary-vday-gift/static/js/main.032e84ed.js.map"
+    "main.bae2059a.js.map": "/mary-vday-gift/static/js/main.bae2059a.js.map"
   },
   "entrypoints": [
     "static/css/main.a0766023.css",
-    "static/js/main.032e84ed.js"
+    "static/js/main.bae2059a.js"
   ]
 }
