@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/mary-vday-gift/static/css/main.0fdbf4f8.css",
-    "main.js": "/mary-vday-gift/static/js/main.bb4df1fa.js",
+    "main.css": "/mary-vday-gift/static/css/main.1111b770.css",
+    "main.js": "/mary-vday-gift/static/js/main.8a5858af.js",
     "static/media/cropped_multnomah.png": "/mary-vday-gift/static/media/cropped_multnomah.543fe308e52d9156f255.png",
     "static/media/cropped_minigolf.png": "/mary-vday-gift/static/media/cropped_minigolf.d85c92079a92a652a11f.png",
     "static/media/cropped_tahoe.png": "/mary-vday-gift/static/media/cropped_tahoe.fe4ed7d5958d8cac6be9.png",
     "static/media/cropped_cosplay.png": "/mary-vday-gift/static/media/cropped_cosplay.d57f885db70a1dc0a7b0.png",
     "index.html": "/mary-vday-gift/index.html",
-    "main.0fdbf4f8.css.map": "/mary-vday-gift/static/css/main.0fdbf4f8.css.map",
-    "main.bb4df1fa.js.map": "/mary-vday-gift/static/js/main.bb4df1fa.js.map"
+    "main.1111b770.css.map": "/mary-vday-gift/static/css/main.1111b770.css.map",
+    "main.8a5858af.js.map": "/mary-vday-gift/static/js/main.8a5858af.js.map"
   },
   "entrypoints": [
-    "static/css/main.0fdbf4f8.css",
-    "static/js/main.bb4df1fa.js"
+    "static/css/main.1111b770.css",
+    "static/js/main.8a5858af.js"
   ]
 }
